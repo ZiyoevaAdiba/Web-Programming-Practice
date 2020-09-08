@@ -1,0 +1,42 @@
+.red-square {
+    display: flex;
+    height: 400px;
+    width: 400px;
+    background-color: red;
+    border: 2px solid black;
+    justify-content: center;
+    align-items: center;
+    font-size: 5em;
+    font-weight: bold;
+}
+
+.green-square {
+    display: flex;
+    height: 400px;
+    width: 400px;
+    background-color: greenyellow;
+    border: 2px solid black;
+    justify-content: center;
+    align-items: center;
+    font-size: 5em;
+    font-weight: bold;
+    position: absolute;
+    top: 200px;
+    left: 300px;
+  }
+.blue-square {
+    display: flex;
+    height: 300px;
+    width: 300px;
+    background-color: blue;
+    border: 2px solid black;
+    justify-content: center;
+    align-items: center;
+    font-size: 5em;
+    font-weight: bold;
+    position: absolute;
+    top: 350px;
+    left: 100px;
+    color: white;
+  
+}
